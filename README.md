@@ -1,6 +1,4 @@
-# serie-ROUND6
 #EXTM3U
-
 
 #EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://i.ytimg.com/vi/Yhy4Yz9uVBQ/hqdefault.jpg" group-title="PIELUHOWSKI_IPTV",BATATINHA FRITA 1 2 3 (1x1)
 http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x1.mp4
