@@ -1,28 +1,35 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Discovery kids" tvg-logo="Discovery kids" group-title="Canais:Desenhos",
+https://assistirtv.xyz/discovery-kids/video.m3u8?token=98bb152f71566f892b0accad375074506f03a6a1-c8ed7b692973fe3ce7703c8ae3b09571-1642579931-1642576331&remote=189.27.247.115
 
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://i.ytimg.com/vi/Yhy4Yz9uVBQ/hqdefault.jpg" group-title="PIELUHOWSKI_IPTV",BATATINHA FRITA 1 2 3 (1x1)
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x1.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="Cartoon Network" group-title="Canais:Desenhos",
+https://transcoder-itatiba-01.nxplay.com.br/CARTOON_NETWORK/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="PIELUHOWSKI_IPTV",INFERNO (1X2)
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x2.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cine Livre 1" tvg-logo="Cine Livre 1" group-title="Canais:Filmes e Series",
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w138324605.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="PIELUHOWSKI_IPTV", O HOMEM DO GUARDA-CHUVA (1X3)
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x3.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title="Canais:Filmes e Series",
 
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="PIELUHOWSKI_IPTV", FIQUEM JUNTOS (1X4)
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x4.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="PIELUHOWSKI_IPTV", UM MUNDO JUSTO (1X5)
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x5.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title="Canais:Filmes e Series",
 
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="PIELUHOWSKI_IPTV", GBANGU (1X6)
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x6.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="PIELUHOWSKI_IPTV", VIPS (1X7)
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x7.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title="Canais:Filmes e Series",
 
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="PIELUHOWSKI_IPTV", O LIDER (1X8)
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x8.mp4
 
-#EXTINF:-1 tvg-id="" tvg-name="ROUND6" tvg-logo="https://ovicio.com.br/wp-content/uploads/2021/10/20211005-ovicio-round-6-valores-capa.jpg" group-title="PIELUHOWSKI_IPTV", UM DIA DE SORTE (1x9)
-http://vulcono2.s3.us-central-1.wasabisys.com/series3/round.6/round.6.1x9.mp4
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title="Canais:Filmes e Series",
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title="Canais:Filmes e Series",
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title="Canais:Filmes e Series",
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title="Canais:Filmes e Series",
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title="Canais:Filmes e Series",
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" " tvg-logo="" group-title="Canais:Filmes e Series",
