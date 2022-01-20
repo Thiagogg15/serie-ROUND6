@@ -22,12 +22,12 @@ https://s3.pandafiles.com:183/d/7u32dug226kwoyaplgfl6zegokxupvf7botbxb3goimls3o7
 https://s3.pandafiles.com:183/d/7u32bug226kwoyaplgfla6wig4crxkjq6zpu2a2bsas7av2swgdxtuzj5zqt4gn7y73yut3q/video.mp4
 
 #EXTINF:0 tvg-id="Dexter New Blood" group-title="Series",Dexter EP,8
-https://s3.pandafiles.com:183/d/7u32pug226kwoyaplgfksn4egz4gcakyndwjw77pmvlfz5gjri4kjgmt55nu27mtod2otasq/video.mp4
+https://s3.pandafiles.com:183/d/7u32pug226kwoyaplgfksn4egz4gcakyndwjw77pmvlfz5gjrldkbx5gqi77cjksh65lyrxc/video.mp4
 
 #EXTINF:0 tvg-id="Dexter New Blood" group-title="Series",Dexter EP,9
-https://s3.pandafiles.com:183/d/7u32nug226kwoyaplgflg2wtgigspdrdtu6gjbfaiqnqaawsobehogvlv2axqhhcifnrlswn/video.mp4
+https://s3.pandafiles.com:183/d/7u32nug226kwoyaplgflg2wtgigspdrdtu6gjbfaiqnqaawsoaer2sw3nqxn6s3yab3xsnpm/video.mp4
 
 #EXTINF:0 tvg-id="Dexter New Blood" group-title="Series",Dexter EP,10
-https://s3.pandafiles.com:183/d/7u32lug226kwoyaplgfkan6ymyl7iwt65c3krv5fcqscnz3ymy6dkspu5scqo7ennnk4d4km/video.mp4
+https://s3.pandafiles.com:183/d/7u32lug226kwoyaplgfkan6ymyl7iwt65c3krv5fcqscnz3ymzwueexjotdlftybssjtl6om/video.mp4
 
 #EXTINF:0 tvg-id="Dexter New Blood" group-title="Series",filme
